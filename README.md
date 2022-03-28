@@ -1,6 +1,6 @@
 # Fabric API
 
-Essential hooks for modding with Fabric.
+Essential hooks for modding with Fabric. 
 
 Fabric API is the library for essential hooks and interoperability mechanisms for Fabric mods. Examples include:
 
